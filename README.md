@@ -26,3 +26,5 @@ Graphics are fully customizable. The values to be displayed must be passed in JS
 <br/><br/>
 <img alt="Line-Chart" height="740" src="https://github.com/leofernandesbh/chart4delphi/blob/068cd28d3797a42433aecd099dbb7dea626a62fb/sample/prints/Lines.png">
 </div>
+
+#### All repository rights to the person responsible for the project [@leofernandesbh](https://github.com/leofernandesbh)
